@@ -1,5 +1,5 @@
 
-import throttle from "../node_modules/lodash/throttle"
+import throttle from "../../node_modules/lodash/throttle"
 
 const feedbackForm = document.querySelector('.feedback-form')
 const LOCAL_STORAGE_KEY = "feedback-form-state"

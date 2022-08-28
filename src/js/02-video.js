@@ -1,5 +1,5 @@
 import Player from '@vimeo/player';
-import throttle from '../node_modules/lodash/throttle';
+import throttle from '../../node_modules/lodash/throttle';
 
 
 
